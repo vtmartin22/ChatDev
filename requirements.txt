@@ -51,7 +51,7 @@ PySocks==1.7.1
 python-engineio==4.5.1
 python-lsp-jsonrpc==1.0.0
 python-lsp-server==1.7.1
-python-socketio==5.8.0
+python-socketio==5.14.0
 pytoolconfig==1.2.5
 PyYAML==6.0
 regex==2023.6.3
